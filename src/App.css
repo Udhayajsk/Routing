@@ -1,0 +1,18 @@
+.navbar {
+    text-decoration: underline;
+    margin: 50px 20px;
+    padding: 100px;
+    text-decoration-color: rgb(0, 128, 128);
+    
+   
+    
+    
+}
+.img{
+    height: 200px;
+    width: 300px;
+}
+.img-fluid{
+    height: 200px;
+    width: 300px;
+}
